@@ -1,2 +1,26 @@
-This is a repository of my projects relevant to Data Analyst roles
+Fantasy Football Data Analysis for Winning Strategies
 
+Introduction:
+The goal of this project is to use data analysis and predictive modeling to develop strategies for winning a fantasy football league. Using historical and current NFL player data, the project will involve exploring trends, predicting player performance, and proposing optimal drafting strategies. A key feature of this project will be the automation of data collection, allowing for continual updates and refinements throughout the football season.
+
+Project Goals:
+1. Data Gathering: Collect comprehensive and relevant data on NFL players from various reliable sources.
+
+2. Data Collection Automation: Set up a process to automate data collection, allowing for regular updates on player performance and other relevant variables throughout the football season.
+
+3. Data Cleaning and Preprocessing: Ensure the gathered data is clean, structured, and ready for analysis.
+
+4. Data Exploration: Perform exploratory data analysis to identify trends, patterns, and key factors affecting player performance.
+
+5. Predictive Modeling: Develop a model to predict the future performance of NFL players, which will serve as the basis for drafting strategies.
+
+6. Visualization and Communication: Create intuitive and insightful visualizations, and an interactive dashboard to present the analysis results and the predictive model outputs.
+
+Data sources:
+The data for this project will be collected from several sources, including but not limited to ESPN, NFL, and Yahoo Sports. The data will include both personal player attributes and game statistics.
+
+Tools used:
+This project will primarily use Python for data gathering, cleaning, exploration, and modeling. Libraries such as Pandas, NumPy, Scikit-learn, BeautifulSoup, and Matplotlib will be extensively used. For creating the interactive dashboard, Tableau will be utilized.
+
+Updates:
+Regular updates about the project's progress, findings, and any interesting insights will be posted here.
